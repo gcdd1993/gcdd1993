@@ -6,3 +6,5 @@ Hi, I'm Gcdd1993, coding makes me happy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcdd1993&hide=css,javascript,html&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/gcdd1993)
 
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/gcdd1993)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+
