@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm Gcdd1993, coding makes me happy.
+扫码关注微信公众号 IT学习社，第一时间学习最新教程！
+
+![搜索框传播样式-标准色版](https://user-images.githubusercontent.com/26523525/127745877-072b2774-a288-4d17-9f48-294135729735.png)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gcdd1993&count_private=true&show_icons=true&theme=radical)](https://github.com/gcdd1993)
 
